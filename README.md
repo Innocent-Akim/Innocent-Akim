@@ -1,3 +1,16 @@
+<a href="https://www.overleaf.com/read/cjnxndmzzmxq"><img src="https://raw.githubusercontent.com/Parply/Parply/master/.github/banner.png" alt="Welcome to Alexander Pinches's Github" width="100%"/></a>
+
+<p align="center">
+<a href="https://github.com/Parply/profile-wordcloud">
+<!--START_SECTION:wordcloud-->
+ <p align='center'><img src='https://raw.githubusercontent.com/Parply/Parply/master/wordcloud/wordcloud.png' alt='Word cloud generated from my GitHub repositories' width='100%'/></p> 
+ <!--END_SECTION:wordcloud-->
+</a>
+</p>
+
+<h3> <img src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="30px"> Hi there </h3> 
+
+
 ### Hi there 👋
 # Hi there, I'm Bilgehan - aka [Bgstatic][website] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
@@ -30,12 +43,6 @@ Here are some ideas to get you started:
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
-### Contact with me 📝
-
-[<img align="left" alt="bilgehangecici.site" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][website]
-[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
-[<img align="left" alt="bilgehangecici | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
-[<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify]
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
@@ -49,4 +56,33 @@ Here are some ideas to get you started:
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![Linux](http://img.shields.io/badge/-Linux-5B4638?style=flat-square&logo=Linux&logoColor=ffffff)
-Credit: [AkhilGKrishnan](https://github.com/Innocent-Akim)
+
+
+### Contact with me 📝
+
+<p align="center">
+<a href="https://kevinpatel.me/blog"><img src="https://img.shields.io/badge/-kevinpatel.me-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/KevinPatel04"><img src="https://img.shields.io/badge/-Kevin%20Patel-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:patelkvin04@gmail.com"><img src="https://img.shields.io/badge/-patelkvin04@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/kevinpatel.me"><img src="https://img.shields.io/badge/-kevinpatel.me-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.leetcode.com/patelkvin04"><img src="https://img.shields.io/badge/-patelkvin04-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://twitter.com/patelkvin04"><img src="https://img.shields.io/badge/-patelkvin04-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Innocent-Akim&show_icons=true" alt="Innocent-Akim" /></p>
+
+<!-- <p align="center">
+<a href="https://dev.to/Innocent-Akim" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="akhilgkrishnan" height="30" width="30" /></a>
+<a href="https://twitter.com/Mrakhilg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mrakhilg" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/akili-innocent-7649951a8/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="akhilgkrishnan" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/10321356" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="10321356" height="30" width="30" /></a>
+<a href="https://kaggle.com/akhilgkrishnan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="akhilgkrishnan" height="30" width="30" /></a>
+<a href="https://fb.com/akhilgkrishnan9800" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="akhilgkrishnan9800" height="30" width="30" /></a>
+<a href="https://instagram.com/akhilgkrishnan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="akhilgkrishnan" height="30" width="30" /></a>
+<a href="https://medium.com/@akhilgkrishnan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@akhilgkrishnan" height="30" width="30" /></a>
+</p> -->
+
+
+
+Credit: [Innocent-Akim](https://github.com/Innocent-Akim)
