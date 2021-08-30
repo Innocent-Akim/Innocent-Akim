@@ -1,5 +1,9 @@
 ### Hi there 👋
+# Hi there, I'm Bilgehan - aka [Bgstatic][website] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
+## I'm a Computer Science and Engineering Student  
 <!--
 **Innocent-Akim/Innocent-Akim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -45,3 +49,4 @@ Here are some ideas to get you started:
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![Linux](http://img.shields.io/badge/-Linux-5B4638?style=flat-square&logo=Linux&logoColor=ffffff)
+Credit: [AkhilGKrishnan](https://github.com/Innocent-Akim)
