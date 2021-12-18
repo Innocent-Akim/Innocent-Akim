@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![Linux](http://img.shields.io/badge/-Linux-5B4638?style=flat-square&logo=Linux&logoColor=ffffff)
-![Flutter](http://img.shields.io/badge/-Flutter-5B4638?style=flat-square&logo=Flutter&logoColor=ffffff)
+![Flutter](http://img.shields.io/badge/-Flutter-0078D6?style=flat-square&logo=Flutter&logoColor=ffffff)
 
 ### Contact with me 📝
 
