@@ -40,7 +40,6 @@ Here are some ideas to get you started:
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
 ![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![MySQL](https://img.shields.io/badge/-MySQL-%red?style=flat-square&logo=MySQL&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
@@ -54,7 +53,6 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/akili-innocent-7649951a8/"><img src="https://img.shields.io/badge/-Akilimali(Innocent)%-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mail:gentilakili98@gmail.com"><img src="https://img.shields.io/badge/-gentilakili98@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/akiligentil99/"><img src="https://img.shields.io/badge/-Akim.me-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://leetcode.com/Akilimali98/"><img src="https://img.shields.io/badge/-Akilimali98-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 <a href="https://twitter.com/akilimali_akim"><img src="https://img.shields.io/badge/-akilimali_akim-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
