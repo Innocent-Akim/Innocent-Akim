@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
+### 🛠 &nbsp;Tech Stack
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![Flutter](http://img.shields.io/badge/-Flutter-0078D6?style=flat-square&logo=Flutter&logoColor=ffffff)
@@ -46,9 +47,7 @@ Here are some ideas to get you started:
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![Linux](http://img.shields.io/badge/-Linux-5B4638?style=flat-square&logo=Linux&logoColor=ffffff)
 
-
-### Contact with me 
-### 🤝🏻 &nbsp;Connect with Me 📝
+### 🤝🏻 &nbsp;Contact with Me 📝
 <p align="center">
 
 <a href="mail:gentilakili98@gmail.com"><img src="https://img.shields.io/badge/-gentilakili98@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
