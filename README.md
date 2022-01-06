@@ -47,8 +47,8 @@ Here are some ideas to get you started:
 ![Linux](http://img.shields.io/badge/-Linux-5B4638?style=flat-square&logo=Linux&logoColor=ffffff)
 
 
-### Contact with me 📝
-
+### Contact with me 
+### 🤝🏻 &nbsp;Connect with Me 📝
 <p align="center">
 
 <a href="mail:gentilakili98@gmail.com"><img src="https://img.shields.io/badge/-gentilakili98@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
@@ -60,16 +60,11 @@ Here are some ideas to get you started:
  -->
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/AVS1508">
+<p>&nbsp; align="center">
+<a href="https://github.com/Innocent-Akim">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Innocent-Akim&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Innocent-Akim&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-### 🤝🏻 &nbsp;Connect with Me
-
-
-
 
 Credit: [Innocent-Akim](https://github.com/Innocent-Akim)
