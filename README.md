@@ -3,7 +3,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Computer Science and Engineering Student  
+<!--## I'm a Computer Science and Engineering Student  
 <!--
 **Innocent-Akim/Innocent-Akim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
