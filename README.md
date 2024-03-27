@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Microsoft Sql Server](https://img.shields.io/badge/Sql%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySql](https://img.shields.io/badge/msql-CB3837?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![MongoDB](http://img.shields.io/badge/-MongoDB-teal?style=flat-square&logo=MongoDB&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
