@@ -58,6 +58,8 @@ Here are some ideas to get you started:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white)
 ![Powershell](https://img.shields.io/badge/Powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-5B4638?style=for-the-badge&logo=Linux&logoColor=white)
+![Web3](https://img.shields.io/badge/Mesh-5B4638?style=for-the-badge&logo=mesh&logoColor=white)
+
 
 
 ### 🤝🏻 &nbsp;Contact with Me 📝
