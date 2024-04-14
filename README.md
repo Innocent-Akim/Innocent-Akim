@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 <p align="center">
 
 <a href="mail:gentilakili98@gmail.com"><img src="https://img.shields.io/badge/-gentilakili98@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/akiligentil99/"><img src="https://img.shields.io/badge/-Akim.me-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/akiligentil99/"><img src="https://img.shields.io/badge/-akiligentil99-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://twitter.com/akilimali_akim"><img src="https://img.shields.io/badge/-akilimali_akim-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
