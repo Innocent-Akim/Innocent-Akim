@@ -33,6 +33,9 @@ Here are some ideas to get you started:
 ### 🛠 &nbsp;Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-5B4638?style=for-the-badge&labelColor=black&logo=java&logoColor=F0DB4F)
+![CSharp](https://img.shields.io/badge/CSharp-68217A?style=for-the-badge&labelColor=black&logo=csharp&logoColor=68217A)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&labelColor=black&logo=dotnet&logoColor=512BD4)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&labelColor=black&logo=dotnet&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
