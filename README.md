@@ -57,7 +57,10 @@ I am a **Computer Science and Engineering Student** passionate about building ro
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="mailto:gentilakili98@gmail.com">
+  <a href="mailto:gentilakili9@gmail.com">
+    <img src="https://img.shields.io/badge/Email-gentilakili9%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+   <a href="mailto:gentilakili98@gmail.com">
     <img src="https://img.shields.io/badge/Email-gentilakili98%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://instagram.com/akiligentil99" target="_blank">
